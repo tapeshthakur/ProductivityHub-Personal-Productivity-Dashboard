@@ -1,2 +1,3 @@
 # ProductivityHub-Personal-Productivity-Dashboard
 ProductivityHub - a sleek interactive web app featuring daily tasks, a focus timer, quick notes, weather widget, inspirational quotes, and progress analytics, all designed to boost productivity.
+Built a modern, fully responsive productivity dashboard using HTML5, CSS3, and JavaScript (ES6+). Developed modules for task management (with priorities/categories), a focus timer, and quick note-taking; all data is persisted using the browser's Local Storage. Designed an analytics dashboard featuring daily progress charts, productivity streaks, and performance insights.
